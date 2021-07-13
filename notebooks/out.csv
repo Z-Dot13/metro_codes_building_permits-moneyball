@@ -1,0 +1,392 @@
+,,mean,median,amin,amax,std,var
+,,deltatask,deltatask,deltatask,deltatask,deltatask,deltatask
+CASE_TYPE_DESC,SUB_TYPE_DESC,,,,,,
+All,,6.5871061093247585,3.0,0.0,39.0,8.991280215921183,80.84311992121569
+Building Commercial - Addition,"Accessory Structure, Garage",7.7,5.0,0.0,27.0,10.32849349023263,106.67777777777779
+Building Commercial - Addition,"Accessory Structure, Shed / Storage Bldg",12.5,12.5,0.0,25.0,14.433756729740642,208.3333333333333
+Building Commercial - Addition,Addition,12.666666666666666,19.0,0.0,19.0,10.96965511460289,120.33333333333334
+Building Commercial - Addition,Assisted Care Living,4.0,4.0,4.0,4.0,0.0,0.0
+Building Commercial - Addition,"Atm, Bank",0.0,0.0,0.0,0.0,,
+Building Commercial - Addition,"Automobile Convenience, Markets",23.0,23.0,20.0,26.0,4.242640687119285,18.0
+Building Commercial - Addition,Automobile Parking - Structure,0.0,0.0,0.0,0.0,,
+Building Commercial - Addition,"Automobile Repair, Storage Mod Hazard",26.0,35.0,8.0,35.0,15.588457268119896,243.0
+Building Commercial - Addition,"Automobile Sales, Used",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Addition,Automotive Service,6.0,6.0,6.0,6.0,0.0,0.0
+Building Commercial - Addition,"Bar Or Nightclub, Tavern And Bars",10.833333333333334,7.0,0.0,36.0,14.232591705893437,202.56666666666666
+Building Commercial - Addition,"Building Contractor Supply, Retail",1.0,1.0,1.0,1.0,0.0,0.0
+Building Commercial - Addition,"Building Contractor Supply, Storage S-1",0.0,0.0,0.0,0.0,,
+Building Commercial - Addition,"College / University, Educational > 12Th",34.5,34.5,34.0,35.0,0.7071067811865476,0.5
+Building Commercial - Addition,"College / University, Lecture Halls",6.0,6.0,6.0,6.0,,
+Building Commercial - Addition,"Commercial Amusement (In), Other",18.0,18.0,18.0,18.0,,
+Building Commercial - Addition,"Community Education, Lecture Halls",7.0,7.0,1.0,13.0,4.974937185533099,24.749999999999993
+Building Commercial - Addition,Day Care Center (Over 75) - Child,1.0,1.0,1.0,1.0,0.0,0.0
+Building Commercial - Addition,"Fuel Storage, Hazardous (H1-H5)",19.0,19.0,19.0,19.0,0.0,0.0
+Building Commercial - Addition,"General Office, Professional Services",6.466666666666667,1.0,0.0,26.0,8.542888995003528,72.98095238095239
+Building Commercial - Addition,"Golf Course, Assembly A-3 (Clubhouse)",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Addition,"Hospital, Institutional I-2",30.5,30.5,29.0,32.0,2.1213203435596424,4.5
+Building Commercial - Addition,Hotel / Motel,1.8,0.0,0.0,9.0,4.024922359499621,16.2
+Building Commercial - Addition,"Leasing / Sales Office, Other",0.0,0.0,0.0,0.0,,
+Building Commercial - Addition,"Manufacturing, Light Hazardous (H1-H5)",11.666666666666666,10.0,10.0,15.0,2.886751345948129,8.333333333333336
+Building Commercial - Addition,"Manufacturing, Med Hazardous (H1-H5)",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Addition,"Medical Office, Professional Services",1.1428571428571428,0.0,0.0,6.0,2.193062655175134,4.809523809523809
+Building Commercial - Addition,Microbrewery,0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Addition,Mobile Home Dwelling,0.5,0.5,0.0,1.0,0.5773502691896257,0.3333333333333333
+Building Commercial - Addition,"Motor Freight, Storage S-1",23.0,23.0,23.0,23.0,,
+Building Commercial - Addition,Multi-Media Production,0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Addition,"Multifamily, Apt / Twnhome > 5 Unit Bldg",1.0,1.0,1.0,1.0,,
+Building Commercial - Addition,"Multifamily, Condominium 3&4 Unit Bldg",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Addition,"Multifamily, Tri-Plex, Quad, Apartments",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Addition,"Personal Care Svcs, Barber/Beauty Shops",0.0,0.0,0.0,0.0,,
+Building Commercial - Addition,"Personal Care Svcs, Hair/ Nail Salon",7.0,7.0,0.0,14.0,9.899494936611665,98.0
+Building Commercial - Addition,"Power/Gas Substatn, Hazardous (H1-H5)",6.0,6.0,6.0,6.0,,
+Building Commercial - Addition,"Printing & Publishing, Print Shop",16.0,16.0,16.0,16.0,0.0,0.0
+Building Commercial - Addition,"Religious Institution, Worship Space",3.1666666666666665,0.0,0.0,15.0,6.013872850889572,36.16666666666667
+Building Commercial - Addition,Restaurant (Fast Food),8.0,8.0,8.0,8.0,0.0,0.0
+Building Commercial - Addition,Restaurant (Full Service),9.451612903225806,4.0,0.0,39.0,12.888854900461922,166.1225806451613
+Building Commercial - Addition,Restaurant (Take Out),0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Addition,"Retail, Department / Retail Stores",4.833333333333333,4.0,0.0,9.0,3.600925806881706,12.966666666666665
+Building Commercial - Addition,"Warehouse, Storage S-1",7.428571428571429,2.0,0.0,36.0,12.985339719046538,168.61904761904762
+Building Commercial - Addition,"Warehouse, Storage S-2",18.0,18.0,18.0,18.0,,
+Building Commercial - Change Contractor,Restaurant (Fast Food),7.0,7.0,7.0,7.0,,
+Building Commercial - Change Contractor,"Retail, Department / Retail Stores",2.0,2.0,2.0,2.0,0.0,0.0
+Building Commercial - Fire Damage,"Multifamily, Apt / Twnhome > 5 Unit Bldg",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Fire Damage,"Multifamily, Townhome",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Fire Damage,"Multifamily, Tri-Plex, Quad, Apartments",0.5555555555555556,0.0,0.0,5.0,1.6666666666666665,2.7777777777777772
+Building Commercial - Fire Damage,"Personal Care Svcs, Barber/Beauty Shops",6.0,6.0,6.0,6.0,,
+Building Commercial - Fire Damage,Restaurant (Full Service),20.333333333333332,30.0,1.0,30.0,16.74315780649915,280.33333333333337
+Building Commercial - Foundation,Automobile Parking - Structure,5.666666666666667,0.0,0.0,17.0,9.814954576223638,96.33333333333333
+Building Commercial - Foundation,"College / University, Lecture Halls",13.0,13.0,13.0,13.0,,
+Building Commercial - Foundation,"Comm. Amusement (Out), Grandstands",13.0,12.0,4.0,24.0,8.246211251235321,68.0
+Building Commercial - Foundation,"Comm. Amusement (Out), Stadiums",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Foundation,"Community Education, Gymnasiums",1.0,1.0,1.0,1.0,,
+Building Commercial - Foundation,"Fuel Storage, Hazardous (H1-H5)",2.8,1.0,0.0,6.0,2.949576240750525,8.7
+Building Commercial - Foundation,"General Office, Civic Administration",10.0,10.0,10.0,10.0,,
+Building Commercial - Foundation,"General Office, Professional Services",18.0,22.0,0.0,38.0,16.21286966755555,262.85714285714283
+Building Commercial - Foundation,Hotel / Motel,8.333333333333334,7.0,1.0,30.0,9.630680142129112,92.75
+Building Commercial - Foundation,"Multifamily, Apt / Twnhome > 5 Unit Bldg",7.363636363636363,8.0,1.0,17.0,5.920687920718795,35.05454545454545
+Building Commercial - Foundation,"Multifamily, Condominium > 5 Unit Bldg",6.545454545454546,4.0,0.0,30.0,9.037296458163098,81.67272727272727
+Building Commercial - Foundation,"Multifamily, Tri-Plex, Quad, Apartments",10.507462686567164,13.0,1.0,34.0,7.930327545546101,62.89009497964724
+Building Commercial - Foundation,"Personal Care Svcs,  Fitness Studio",2.0,2.0,2.0,2.0,,
+Building Commercial - Foundation,Restaurant (Full Service),23.5,23.5,19.0,28.0,6.363961030678928,40.5
+Building Commercial - Foundation,"Warehouse, Storage S-1",15.0,14.5,0.0,31.0,17.339742404853272,300.6666666666667
+Building Commercial - New,"Accessory Structure, Garage",4.703703703703703,5.0,0.0,21.0,4.778274671040671,22.83190883190883
+Building Commercial - New,"Accessory Structure, Shed / Storage Bldg",6.243243243243243,4.0,0.0,39.0,8.760407795573489,76.74474474474475
+Building Commercial - New,"Airport/Heliport, Airtraffic Cntr Towers",3.0,3.0,3.0,3.0,0.0,0.0
+Building Commercial - New,"Airport/Heliport, Passngr Statn(Waitarea",10.0,0.0,0.0,30.0,17.320508075688775,300.0
+Building Commercial - New,"Atm, Bank",15.818181818181818,10.0,0.0,39.0,14.864845655560517,220.9636363636364
+Building Commercial - New,"Automobile Convenience, Markets",5.25,3.5,3.0,11.0,3.8622100754188224,14.916666666666666
+Building Commercial - New,Automobile Parking - Structure,14.0,12.0,0.0,37.0,14.654350889752845,214.75
+Building Commercial - New,Automobile Parking - Surface Lot,7.857142857142857,2.0,0.0,36.0,11.181049727815049,125.015873015873
+Building Commercial - New,"Automobile Repair, Storage Mod Hazard",10.857142857142858,5.0,2.0,27.0,11.216484467493538,125.80952380952381
+Building Commercial - New,"Automobile Sales, Used",0.0,0.0,0.0,0.0,,
+Building Commercial - New,Automotive Service,19.25,20.5,0.0,36.0,19.448650338776723,378.25
+Building Commercial - New,"Building Contractor Supply, Retail",0.2,0.0,0.0,1.0,0.447213595499958,0.20000000000000004
+Building Commercial - New,"Building Contractor Supply, Storage S-1",4.1395348837209305,1.0,0.0,22.0,6.401567499072607,40.980066445182715
+Building Commercial - New,Car Wash,6.666666666666667,4.0,2.0,14.0,6.429100507328637,41.333333333333336
+Building Commercial - New,"Club, Banquet Hall",6.0,6.0,5.0,7.0,1.4142135623730951,2.0
+Building Commercial - New,"College / University, Educational > 12Th",11.5,8.5,0.0,33.0,13.234154946306814,175.1428571428571
+Building Commercial - New,"Comm. Amusement (Out), Amusement Park",0.0,0.0,0.0,0.0,,
+Building Commercial - New,"Commercial Amusement (In), Other",20.0,20.0,20.0,20.0,,
+Building Commercial - New,"Community Education, Grandstands",5.0,5.0,5.0,5.0,,
+Building Commercial - New,"Community Education, Lecture Halls",4.121951219512195,1.0,0.0,20.0,6.360798385231289,40.45975609756097
+Building Commercial - New,"Cultural Center, Museum",15.666666666666666,20.0,7.0,20.0,7.505553499465135,56.333333333333336
+Building Commercial - New,Day Care Center (Up To 75) - Child Care,0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - New,"Distributive Bus/Wholesale, Wholesale St",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - New,"Financial Institution, Banks",13.0,13.0,13.0,13.0,,
+Building Commercial - New,"Fuel Storage, Hazardous (H1-H5)",9.333333333333334,2.0,0.0,30.0,12.451238224904916,155.03333333333333
+Building Commercial - New,"Funeral Home, Funeral Parlors",0.0,0.0,0.0,0.0,,
+Building Commercial - New,"General Office, Civic Administration",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - New,"General Office, Professional Services",13.875,14.0,0.0,37.0,11.927532252776583,142.26602564102564
+Building Commercial - New,"Hospital, Institutional I-2",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - New,Hotel / Motel,9.2,6.0,0.0,34.0,11.081516141756053,122.79999999999997
+Building Commercial - New,"Kennel / Stable, Kennel / Pound",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - New,"Leasing / Sales Office, Other",3.7241379310344827,0.0,0.0,37.0,8.011695234867492,64.18726053639847
+Building Commercial - New,"Manufacturing, Heavy Hazardous (H1-H5)",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - New,"Manufacturing, Light Hazardous (H1-H5)",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - New,"Manufacturing, Med Hazardous (H1-H5)",8.0,8.0,8.0,8.0,,
+Building Commercial - New,Master Permit Application,6.0,6.0,6.0,6.0,,
+Building Commercial - New,Mobile Food Vendors,5.714285714285714,2.0,0.0,26.0,8.53312871778492,72.81428571428572
+Building Commercial - New,"Motor Freight, Storage S-1",14.0,14.0,14.0,14.0,0.0,0.0
+Building Commercial - New,"Multifamily, Apt / Twnhome > 5 Unit Bldg",12.714285714285714,12.0,5.0,22.0,6.395683067879607,40.904761904761905
+Building Commercial - New,"Multifamily, Condominium > 5 Unit Bldg",29.09090909090909,33.0,0.0,34.0,8.594680416893432,73.86853146853147
+Building Commercial - New,"Multifamily, Townhome",7.3428571428571425,1.0,0.0,22.0,8.530026057276444,72.76134453781512
+Building Commercial - New,"Multifamily, Tri-Plex, Quad, Apartments",11.825327510917031,10.0,0.0,39.0,9.590522802928637,91.97812763349418
+Building Commercial - New,Park,10.375,12.5,0.0,14.0,5.208166663999915,27.125
+Building Commercial - New,"Personal Care Svcs,  Fitness Studio",12.333333333333334,17.0,3.0,17.0,8.082903768654761,65.33333333333333
+Building Commercial - New,"Power/Gas Substatn, Hazardous (H1-H5)",7.4,11.0,0.0,14.0,6.841052550594828,46.800000000000004
+Building Commercial - New,"Recreation Center, Community Halls",1.0,1.0,0.0,2.0,1.4142135623730951,2.0
+Building Commercial - New,"Religious Institution, Fellowship Hall",2.0,2.0,2.0,2.0,,
+Building Commercial - New,"Religious Institution, Gymnasium",0.0,0.0,0.0,0.0,,
+Building Commercial - New,"Religious Institution, Worship Space",16.5,16.5,9.0,24.0,10.606601717798213,112.5
+Building Commercial - New,Restaurant (Fast Food),0.2857142857142857,0.0,0.0,1.0,0.4879500364742666,0.2380952380952381
+Building Commercial - New,Restaurant (Full Service),17.25,21.0,0.0,27.0,11.84271928232701,140.25
+Building Commercial - New,Restaurant (Take Out),6.0,4.5,0.0,24.0,7.129062309432054,50.8235294117647
+Building Commercial - New,"Retail, Department / Retail Stores",15.5,10.5,0.0,39.0,13.228756555322953,174.99999999999997
+Building Commercial - New,"Self Service Storage, Storage Mod Hazard",8.0,7.0,0.0,15.0,6.662177976053731,44.38461538461539
+Building Commercial - New,Temporary Festival,0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - New,"Vocational School, Lecture Halls",1.0,1.0,1.0,1.0,0.0,0.0
+Building Commercial - New,"Warehouse, Storage S-1",14.567567567567568,14.0,0.0,32.0,12.787886065727598,163.53003003003008
+Building Commercial - New,"Warehouse, Storage S-2",9.25,1.0,0.0,35.0,17.192537140670463,295.5833333333333
+Building Commercial - New,"Water/Sewer Pump Statn,Hazardous (H1-H5)",11.090909090909092,8.0,0.0,30.0,10.606173159575942,112.4909090909091
+Building Commercial - Rehab,"Adult Entertainment, Night Club",4.0,4.0,4.0,4.0,,
+Building Commercial - Rehab,"Airport/Heliport, Airtraffic Cntr Towers",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Airport/Heliport, Passngr Statn(Waitarea",6.148148148148148,0.0,0.0,31.0,10.904140722692683,118.90028490028489
+Building Commercial - Rehab,Animal Hospital,12.5,12.5,0.0,25.0,17.67766952966369,312.5
+Building Commercial - Rehab,Artisan Distillery,9.5,4.0,0.0,30.0,13.796134724383252,190.33333333333334
+Building Commercial - Rehab,Assisted Care Living,0.25,0.0,0.0,1.0,0.5,0.25000000000000006
+Building Commercial - Rehab,"Atm, Bank",10.4,8.0,0.0,27.0,10.691117808723277,114.3
+Building Commercial - Rehab,"Automobile Convenience, Markets",5.222222222222222,0.5,0.0,32.0,10.17591304744721,103.54920634920636
+Building Commercial - Rehab,Automobile Parking - Structure,5.2,4.0,1.0,13.0,4.54972526643093,20.7
+Building Commercial - Rehab,"Automobile Repair, Storage Mod Hazard",6.1,0.0,0.0,36.0,11.845768114488068,140.32222222222222
+Building Commercial - Rehab,"Automobile Sales, New",0.2,0.0,0.0,1.0,0.4472135954999579,0.2
+Building Commercial - Rehab,"Automobile Sales, Used",10.9,7.0,0.0,37.0,14.145670715805595,200.1
+Building Commercial - Rehab,Automotive Service,8.166666666666666,1.0,0.0,38.0,11.66060448560438,135.96969696969697
+Building Commercial - Rehab,"Bar Or Nightclub, Banquet Halls",13.5,13.5,0.0,27.0,19.091883092036785,364.5
+Building Commercial - Rehab,"Bar Or Nightclub, Dance Halls",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Bar Or Nightclub, Tavern And Bars",4.8,0.0,0.0,28.0,9.078362554264215,82.41666666666667
+Building Commercial - Rehab,Boarding House (More Than 30 Day Stay),10.0,10.0,10.0,10.0,0.0,0.0
+Building Commercial - Rehab,"Building Contractor Supply, Retail",12.0,0.0,0.0,36.0,20.784609690826528,432.0
+Building Commercial - Rehab,"Building Contractor Supply, Storage S-1",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Business School, Educational Occ > 12Th",22.2,31.0,2.0,33.0,14.342245291445828,205.7
+Building Commercial - Rehab,"Business Service, Business Other",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,Car Wash,0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Club, Banquet Hall",5.0,5.0,5.0,5.0,,
+Building Commercial - Rehab,"College / University, Auditoriums",7.0,7.0,7.0,7.0,,
+Building Commercial - Rehab,"College / University, Educational > 12Th",9.516129032258064,5.0,0.0,38.0,12.052305361055579,145.25806451612905
+Building Commercial - Rehab,"College / University, Lecture Halls",2.2857142857142856,0.0,0.0,12.0,4.386125310350269,19.23809523809524
+Building Commercial - Rehab,"Comm. Amusement (Out), Bleachers",3.0,3.0,3.0,3.0,0.0,0.0
+Building Commercial - Rehab,"Comm. Amusement (Out), Stadiums",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Commercial Amusement (In), Bowling Alley",0.0,0.0,0.0,0.0,,
+Building Commercial - Rehab,"Commercial Amusement (In), Other",3.68,0.0,0.0,29.0,6.853952630903328,46.97666666666666
+Building Commercial - Rehab,"Community Education, Auditoriums",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Community Education, Grandstands",16.0,16.0,16.0,16.0,0.0,0.0
+Building Commercial - Rehab,"Community Education, Lecture Halls",7.2,1.0,0.0,28.0,10.029955134495866,100.59999999999998
+Building Commercial - Rehab,"Country Club, Banquet Hall",25.25,30.0,5.0,36.0,13.793114224133722,190.25
+Building Commercial - Rehab,"Cultural Center, Art Galleries",10.5,10.5,0.0,21.0,14.849242404917497,220.5
+Building Commercial - Rehab,"Cultural Center, Museum",5.833333333333333,0.0,0.0,35.0,14.288690166235206,204.16666666666669
+Building Commercial - Rehab,"Custom Assembly, Factory F-1",0.0,0.0,0.0,0.0,,
+Building Commercial - Rehab,Day Care Center (Over 75) - Child,27.0,27.0,27.0,27.0,0.0,0.0
+Building Commercial - Rehab,Day Care Center (Up To 75) - Child Care,3.9,2.5,0.0,10.0,4.357624225296267,18.98888888888889
+Building Commercial - Rehab,Demolition Permit - Commercial,2.5714285714285716,0.0,0.0,9.0,4.3915503282684,19.28571428571429
+Building Commercial - Rehab,Dormitories,0.0,0.0,0.0,0.0,,
+Building Commercial - Rehab,"Financial Institution, Banks",7.619047619047619,0.0,0.0,28.0,10.156161629652171,103.14761904761903
+Building Commercial - Rehab,"Furniture Store, Dept/Retail Stores",3.75,2.0,0.0,8.0,3.615443067098218,13.071428571428571
+Building Commercial - Rehab,"General Office, Civic Administration",8.392857142857142,0.0,0.0,39.0,12.781176221634126,163.35846560846562
+Building Commercial - Rehab,"General Office, Courtrooms",20.0,20.0,20.0,20.0,0.0,0.0
+Building Commercial - Rehab,"General Office, Professional Services",5.158550396375991,0.0,0.0,39.0,9.330405453327193,87.05646592347782
+Building Commercial - Rehab,Heavy Equipment Sales,0.0,0.0,0.0,0.0,,
+Building Commercial - Rehab,"Home Improvement Sales, Retail",7.0,0.0,0.0,26.0,11.096975134821973,123.14285714285714
+Building Commercial - Rehab,"Hospice, Institutional I-2",0.75,1.0,0.0,1.0,0.5,0.25
+Building Commercial - Rehab,"Hospital, Institutional I-2",9.39344262295082,2.0,0.0,39.0,11.658013965401068,135.90928961748634
+Building Commercial - Rehab,Hotel / Motel,9.362068965517242,3.0,0.0,39.0,11.676484504384236,136.3402903811252
+Building Commercial - Rehab,"Kennel / Stable, Kennel / Pound",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Leasing / Sales Office, Other",7.857142857142857,2.0,0.0,39.0,13.3061994970369,177.05494505494505
+Building Commercial - Rehab,"Liquor Sales, Merchantile",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Manufacturing, Light Hazardous (H1-H5)",9.391304347826088,1.0,0.0,36.0,13.70712863783189,187.8853754940711
+Building Commercial - Rehab,"Manufacturing, Med Hazardous (H1-H5)",2.0,2.0,2.0,2.0,0.0,0.0
+Building Commercial - Rehab,"Medical Appliance Sales, Dept/Retail Str",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Medical Office, Professional Services",8.372972972972972,0.0,0.0,37.0,11.291894184129161,127.50687426556996
+Building Commercial - Rehab,"Medical/Sci Lab, Labs, Testing/ Research",5.2,0.0,0.0,38.0,9.893920111483302,97.88965517241377
+Building Commercial - Rehab,Microbrewery,30.666666666666668,31.0,30.0,31.0,0.5773502691896255,0.33333333333333304
+Building Commercial - Rehab,Multi-Media Production,14.0,14.0,1.0,27.0,18.384776310850235,338.0
+Building Commercial - Rehab,"Multifamily, Apt / Twnhome > 5 Unit Bldg",6.942857142857143,2.0,0.0,35.0,10.50194059698116,110.29075630252102
+Building Commercial - Rehab,"Multifamily, Condominium 1&2 Unit Bldg",25.333333333333332,38.0,0.0,38.0,21.93931022920578,481.33333333333337
+Building Commercial - Rehab,"Multifamily, Condominium 3&4 Unit Bldg",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Multifamily, Condominium > 5 Unit Bldg",2.7037037037037037,1.0,0.0,25.0,5.7215479645906235,32.73611111111111
+Building Commercial - Rehab,"Multifamily, Townhome",0.21052631578947367,0.0,0.0,3.0,0.7132825035177586,0.5087719298245613
+Building Commercial - Rehab,"Multifamily, Tri-Plex, Quad, Apartments",5.883928571428571,0.0,0.0,37.0,11.633088514717336,135.3287483912484
+Building Commercial - Rehab,Nursing Home,0.0,0.0,0.0,0.0,,
+Building Commercial - Rehab,Park,26.666666666666668,36.0,8.0,36.0,16.165807537309522,261.3333333333333
+Building Commercial - Rehab,"Personal Care Svcs,  Fitness Studio",5.282051282051282,0.0,0.0,29.0,8.899877935143765,79.20782726045886
+Building Commercial - Rehab,"Personal Care Svcs,  Tanning Salon",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Personal Care Svcs,  Tatoo Studio",2.2,1.0,0.0,5.0,2.5884358211089573,6.700000000000001
+Building Commercial - Rehab,"Personal Care Svcs, Barber/Beauty Shops",3.5714285714285716,0.0,0.0,30.0,7.046782447127402,49.65714285714286
+Building Commercial - Rehab,"Personal Care Svcs, Dry Clean & Laundry",17.0,21.5,1.0,30.0,12.743625857659193,162.4
+Building Commercial - Rehab,"Personal Care Svcs, Hair/ Nail Salon",7.7368421052631575,1.0,0.0,38.0,11.403376006813675,130.03698435277377
+Building Commercial - Rehab,"Personal Instruction, Educational  > 12",3.5714285714285716,0.0,0.0,24.0,9.015859043136947,81.28571428571426
+Building Commercial - Rehab,"Radio/Tv Studio, Tv&Radio Statn(No Aud)",4.0,0.0,0.0,16.0,8.0,64.00000000000001
+Building Commercial - Rehab,"Radio/Tv Studio, Tv&Radio Studio(Audien)",7.0,7.0,7.0,7.0,,
+Building Commercial - Rehab,"Recreation Center, Community Halls",10.0,11.0,8.0,11.0,1.7320508075688772,3.0
+Building Commercial - Rehab,"Recreation Center, Exhibition Halls",2.0,2.0,2.0,2.0,,
+Building Commercial - Rehab,Recycling Facility,32.0,32.0,32.0,32.0,0.0,0.0
+Building Commercial - Rehab,"Religious Institution, Auditorium",29.0,29.0,29.0,29.0,0.0,0.0
+Building Commercial - Rehab,"Religious Institution, Banquet Hall",6.0,6.0,1.0,11.0,5.773502691896257,33.33333333333333
+Building Commercial - Rehab,"Religious Institution, Fellowship Hall",9.818181818181818,1.0,0.0,33.0,14.140849916593995,199.9636363636364
+Building Commercial - Rehab,"Religious Institution, Gymnasium",7.5,3.5,0.0,23.0,10.661457061146317,113.66666666666667
+Building Commercial - Rehab,"Religious Institution, Worship Space",9.85,3.0,0.0,39.0,13.027400273835791,169.71315789473684
+Building Commercial - Rehab,Restaurant (Fast Food),7.319148936170213,0.0,0.0,38.0,11.392520434414292,129.78952184854722
+Building Commercial - Rehab,Restaurant (Full Service),6.172566371681416,1.0,0.0,38.0,10.00716852206,100.14342182890853
+Building Commercial - Rehab,Restaurant (Take Out),7.037037037037037,0.0,0.0,37.0,11.383475217890988,129.58350803633826
+Building Commercial - Rehab,"Retail, Department / Retail Stores",5.45303867403315,0.0,0.0,39.0,9.579193411741556,91.76094641955284
+Building Commercial - Rehab,"Retail, Drug Stores",10.571428571428571,7.5,0.0,39.0,12.314558524297638,151.64835164835162
+Building Commercial - Rehab,"Safety Services, Fire & Police Station",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Self Service Storage, Storage Mod Hazard",12.0,0.0,0.0,36.0,18.5903200617956,345.6
+Building Commercial - Rehab,Single Family Residence,6.857142857142857,10.0,0.0,10.0,4.016449692435862,16.13186813186813
+Building Commercial - Rehab,"Stadium/Arena/Convention Cntr, Arenas",1.3333333333333333,0.0,0.0,4.0,2.3094010767585034,5.333333333333334
+Building Commercial - Rehab,"Stadium/Arena/Convention Cntr, Auditor.",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,"Stadium/Arena/Convention Cntr, Stadiums",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Rehab,Telephone Services - All Others Bldgs,0.0,0.0,0.0,0.0,,
+Building Commercial - Rehab,Temporary Festival,0.0,0.0,0.0,0.0,,
+Building Commercial - Rehab,"Theater, Motion Picture Theaters",2.0,2.0,2.0,2.0,0.0,0.0
+Building Commercial - Rehab,Vehicular Rental / Leasing,9.333333333333334,0.0,0.0,28.0,16.165807537309522,261.3333333333333
+Building Commercial - Rehab,Veternarian,0.0,0.0,0.0,0.0,,
+Building Commercial - Rehab,"Vocational School, Educational  > 12Th",4.571428571428571,0.0,0.0,16.0,7.807200583588266,60.952380952380956
+Building Commercial - Rehab,"Warehouse, Storage S-1",7.982608695652174,1.0,0.0,36.0,11.53483101169431,133.05232646834477
+Building Commercial - Rehab,"Warehouse, Storage S-2",6.32,1.0,0.0,39.0,11.54960316778604,133.39333333333335
+Building Commercial - Roofing / Siding,"Airport/Heliport, Passngr Statn(Waitarea",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Building Contractor Supply, Retail",0.0,0.0,0.0,0.0,,
+Building Commercial - Roofing / Siding,"Business School, Educational Occ > 12Th",7.0,7.0,7.0,7.0,,
+Building Commercial - Roofing / Siding,"Financial Institution, Banks",1.0,1.0,1.0,1.0,,
+Building Commercial - Roofing / Siding,"General Office, Professional Services",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Hospital, Institutional I-2",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Manufacturing, Light Hazardous (H1-H5)",5.833333333333333,0.0,0.0,35.0,14.288690166235206,204.16666666666669
+Building Commercial - Roofing / Siding,"Multifamily, Condominium 1&2 Unit Bldg",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Multifamily, Condominium > 5 Unit Bldg",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Multifamily, Townhome",3.6666666666666665,0.0,0.0,11.0,5.680375574437544,32.266666666666666
+Building Commercial - Roofing / Siding,"Multifamily, Tri-Plex, Quad, Apartments",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Recreation Center, Community Halls",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Religious Institution, Worship Space",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Retail, Department / Retail Stores",0.4,0.0,0.0,2.0,0.8432740427115678,0.7111111111111111
+Building Commercial - Roofing / Siding,"Warehouse, Storage S-1",6.375,5.5,0.0,16.0,6.566962768281848,43.12499999999999
+Building Commercial - Roofing / Siding,"Warehouse, Storage S-2",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Roofing / Siding,"Waste Water Treatment, Hazardous (H1-H5)",13.0,13.0,13.0,13.0,,
+Building Commercial - Shell,"Airport/Heliport, Passngr Statn(Waitarea",36.0,36.0,36.0,36.0,,
+Building Commercial - Shell,"College / University, Educational > 12Th",10.0,10.0,10.0,10.0,,
+Building Commercial - Shell,Commercial Shell Generic,14.0,14.0,12.0,16.0,2.8284271247461903,8.0
+Building Commercial - Shell,"General Office, Professional Services",14.75,8.5,1.0,36.0,15.322718893385542,234.78571428571425
+Building Commercial - Shell,Hotel / Motel,0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Shell,"Medical Office, Professional Services",4.0,3.0,0.0,9.0,4.58257569495584,21.0
+Building Commercial - Shell,"Multifamily, Apt / Twnhome > 5 Unit Bldg",12.333333333333334,4.5,0.0,35.0,12.623878914207777,159.36231884057972
+Building Commercial - Shell,"Multifamily, Condominium > 5 Unit Bldg",9.0,9.0,9.0,9.0,0.0,0.0
+Building Commercial - Shell,"Multifamily, Townhome",12.444444444444445,15.0,6.0,28.0,7.3673453684334484,54.27777777777778
+Building Commercial - Shell,"Multifamily, Tri-Plex, Quad, Apartments",20.875,21.5,4.0,39.0,14.347100254556171,205.83928571428572
+Building Commercial - Shell,Restaurant (Full Service),6.333333333333333,2.0,2.0,15.0,7.505553499465136,56.33333333333334
+Building Commercial - Shell,"Retail, Department / Retail Stores",4.888888888888889,2.0,0.0,15.0,6.372684764768387,40.61111111111111
+Building Commercial - Shell,"Warehouse, Storage S-1",28.454545454545453,31.0,13.0,39.0,7.567874686642695,57.27272727272727
+Building Commercial - Structural Frame,"College / University, Educational > 12Th",36.0,36.0,36.0,36.0,,
+Building Commercial - Structural Frame,"College / University, Lecture Halls",30.0,30.0,30.0,30.0,,
+Building Commercial - Structural Frame,Hotel / Motel,9.25,9.0,1.0,18.0,9.535023160258536,90.91666666666667
+Building Commercial - Structural Frame,"Medical Office, Professional Services",36.0,36.0,36.0,36.0,,
+Building Commercial - Structural Frame,"Multifamily, Apt / Twnhome > 5 Unit Bldg",35.0,35.0,35.0,35.0,0.0,0.0
+Building Commercial - Tenant Finish Out,"Bar Or Nightclub, Tavern And Bars",5.0,5.0,5.0,5.0,,
+Building Commercial - Tenant Finish Out,"Commercial Amusement (In), Other",4.0,4.0,0.0,8.0,5.656854249492381,32.0
+Building Commercial - Tenant Finish Out,"General Office, Civic Administration",3.0,3.0,0.0,6.0,4.242640687119285,18.0
+Building Commercial - Tenant Finish Out,"General Office, Professional Services",8.8,2.0,0.0,35.0,11.553559874026355,133.4847457627119
+Building Commercial - Tenant Finish Out,Hotel / Motel,0.0,0.0,0.0,0.0,,
+Building Commercial - Tenant Finish Out,"Kennel / Stable, Kennel / Pound",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Tenant Finish Out,"Leasing / Sales Office, Other",3.5,3.5,2.0,5.0,2.1213203435596424,4.5
+Building Commercial - Tenant Finish Out,"Manufacturing, Light Hazardous (H1-H5)",16.0,16.0,16.0,16.0,,
+Building Commercial - Tenant Finish Out,"Medical Office, Professional Services",0.3684210526315789,0.0,0.0,4.0,1.1160708020048367,1.2456140350877194
+Building Commercial - Tenant Finish Out,"Multifamily, Apt / Twnhome > 5 Unit Bldg",6.0,5.0,5.0,8.0,1.7320508075688772,3.0
+Building Commercial - Tenant Finish Out,"Multifamily, Condominium > 5 Unit Bldg",3.0,3.0,0.0,6.0,1.9442222095223594,3.780000000000005
+Building Commercial - Tenant Finish Out,"Multifamily, Townhome",3.4166666666666665,1.0,1.0,7.0,2.9328227487119505,8.60144927536232
+Building Commercial - Tenant Finish Out,"Multifamily, Tri-Plex, Quad, Apartments",8.482758620689655,7.0,0.0,23.0,6.356215684864092,40.4014778325123
+Building Commercial - Tenant Finish Out,"Personal Care Svcs,  Fitness Studio",5.333333333333333,4.0,0.0,20.0,6.344288770224759,40.24999999999999
+Building Commercial - Tenant Finish Out,"Personal Care Svcs, Barber/Beauty Shops",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial - Tenant Finish Out,"Personal Care Svcs, Dry Clean & Laundry",0.0,0.0,0.0,0.0,,
+Building Commercial - Tenant Finish Out,"Personal Care Svcs, Hair/ Nail Salon",3.6666666666666665,0.0,0.0,14.0,6.082762530298219,37.0
+Building Commercial - Tenant Finish Out,"Personal Instruction, Educational  > 12",22.0,22.0,22.0,22.0,,
+Building Commercial - Tenant Finish Out,Restaurant (Fast Food),5.444444444444445,0.0,0.0,33.0,10.909985232702095,119.02777777777777
+Building Commercial - Tenant Finish Out,Restaurant (Full Service),11.117647058823529,6.0,0.0,39.0,12.763025920977226,162.89483065953655
+Building Commercial - Tenant Finish Out,"Retail, Department / Retail Stores",2.638888888888889,0.0,0.0,22.0,5.870764261650524,34.465873015873015
+Building Commercial - Tenant Finish Out,"Warehouse, Storage S-1",7.428571428571429,8.0,0.0,16.0,7.207800007795788,51.95238095238096
+Building Commercial New Storm Damage,"Automobile Repair, Storage Mod Hazard",33.0,33.0,33.0,33.0,,
+Building Commercial New Storm Damage,"Building Contractor Supply, Storage S-1",3.5,3.5,0.0,7.0,4.949747468305833,24.5
+Building Commercial New Storm Damage,"College / University, Educational > 12Th",0.0,0.0,0.0,0.0,,
+Building Commercial New Storm Damage,"Financial Institution, Banks",29.0,29.0,29.0,29.0,,
+Building Commercial New Storm Damage,"General Office, Professional Services",0.0,0.0,0.0,0.0,,
+Building Commercial New Storm Damage,"Leasing / Sales Office, Other",6.0,6.0,6.0,6.0,0.0,0.0
+Building Commercial New Storm Damage,"Multifamily, Apt / Twnhome > 5 Unit Bldg",25.0,25.0,25.0,25.0,0.0,0.0
+Building Commercial New Storm Damage,"Multifamily, Tri-Plex, Quad, Apartments",24.25,25.0,23.0,25.0,1.0350983390135313,1.0714285714285714
+Building Commercial New Storm Damage,"Personal Care Svcs,  Fitness Studio",1.0,1.0,1.0,1.0,,
+Building Commercial New Storm Damage,"Religious Institution, Fellowship Hall",8.0,8.0,8.0,8.0,,
+Building Commercial New Storm Damage,Restaurant (Fast Food),17.0,17.0,17.0,17.0,,
+Building Commercial New Storm Damage,"Safety Services, Fire & Police Station",12.0,12.0,12.0,12.0,,
+Building Commercial New Storm Damage,"Warehouse, Storage S-1",3.5,0.5,0.0,13.0,6.350852961085883,40.33333333333333
+Building Commercial Rehab Storm Damage,Automotive Service,20.0,20.0,20.0,20.0,,
+Building Commercial Rehab Storm Damage,"Building Contractor Supply, Storage S-1",0.0,0.0,0.0,0.0,,
+Building Commercial Rehab Storm Damage,"Commercial Amusement (In), Other",0.0,0.0,0.0,0.0,,
+Building Commercial Rehab Storm Damage,Commercial Storm Damage Generic,0.0,0.0,0.0,0.0,,
+Building Commercial Rehab Storm Damage,Demolition Permit - Commercial,25.5,25.5,16.0,35.0,13.435028842544403,180.5
+Building Commercial Rehab Storm Damage,"General Office, Professional Services",6.65,7.0,0.0,26.0,6.884574672487229,47.39736842105264
+Building Commercial Rehab Storm Damage,"Manufacturing, Light Hazardous (H1-H5)",0.0,0.0,0.0,0.0,0.0,0.0
+Building Commercial Rehab Storm Damage,"Multifamily, Apt / Twnhome > 5 Unit Bldg",10.428571428571429,8.0,0.0,26.0,10.013178130031259,100.26373626373629
+Building Commercial Rehab Storm Damage,"Multifamily, Condominium 3&4 Unit Bldg",14.642857142857142,13.0,1.0,30.0,11.419330054828038,130.40109890109892
+Building Commercial Rehab Storm Damage,"Multifamily, Condominium > 5 Unit Bldg",20.3,29.0,0.0,29.0,11.576316819745006,134.01111111111112
+Building Commercial Rehab Storm Damage,"Religious Institution, Auditorium",3.0,3.0,3.0,3.0,0.0,0.0
+Building Commercial Rehab Storm Damage,"Religious Institution, Worship Space",11.857142857142858,6.0,1.0,38.0,13.409307357560413,179.80952380952382
+Building Commercial Rehab Storm Damage,Restaurant (Full Service),11.25,5.0,0.0,35.0,16.520189667999176,272.9166666666667
+Building Commercial Rehab Storm Damage,"Retail, Department / Retail Stores",3.2777777777777777,0.0,0.0,29.0,7.027722880769337,49.38888888888887
+Building Commercial Rehab Storm Damage,"Warehouse, Storage S-1",7.875,3.5,0.0,19.0,9.156379509079214,83.83928571428571
+Building Commercial Rehab Storm Damage,"Warehouse, Storage S-2",0.0,0.0,0.0,0.0,0.0,0.0
+Building Residential - Addition,"Accessory Structure, Carport",0.0,0.0,0.0,0.0,0.0,0.0
+Building Residential - Addition,"Accessory Structure, Decks",5.182992465016146,1.0,0.0,39.0,8.412511930676786,70.77035698377925
+Building Residential - Addition,"Accessory Structure, Garage",6.904761904761905,3.0,0.0,37.0,9.573654325431697,91.65485714285705
+Building Residential - Addition,"Accessory Structure, Shed / Storage Bldg",5.954545454545454,1.0,0.0,27.0,7.909236712223175,62.55602536997885
+Building Residential - Addition,Duplex,3.3333333333333335,0.0,0.0,19.0,5.797343823019197,33.609195402298845
+Building Residential - Addition,"General Office, Professional Services",0.0,0.0,0.0,0.0,,
+Building Residential - Addition,Mobile Home Dwelling,1.1428571428571428,0.0,0.0,8.0,2.9050921568102517,8.43956043956044
+Building Residential - Addition,"Multifamily, Condominium 3&4 Unit Bldg",6.0,6.0,6.0,6.0,,
+Building Residential - Addition,"Multifamily, Tri-Plex, Quad, Apartments",4.0,4.0,4.0,4.0,,
+Building Residential - Addition,Single Family Residence,5.373659117997616,0.0,0.0,39.0,8.479262534821954,71.89789313443522
+Building Residential - Amend Permit,"Accessory Structure, Garage",0.0,0.0,0.0,0.0,0.0,0.0
+Building Residential - Amend Permit,Single Family Residence,0.15384615384615385,0.0,0.0,1.0,0.36794648440311994,0.1353846153846154
+Building Residential - Change Contractor,"Accessory Structure, Garage",0.0,0.0,0.0,0.0,0.0,0.0
+Building Residential - Change Contractor,Single Family Residence,13.875,19.0,0.0,39.0,12.59852475835788,158.7228260869565
+Building Residential - Fire Damage,Duplex,1.0,1.0,1.0,1.0,0.0,0.0
+Building Residential - Fire Damage,Single Family Residence,4.346153846153846,0.0,0.0,28.0,8.921624550236611,79.59538461538463
+Building Residential - Foundation,Single Family Residence,0.0,0.0,0.0,0.0,0.0,0.0
+Building Residential - New,Accessory Apartment,9.75,7.5,0.0,28.0,9.082951062292475,82.5
+Building Residential - New,"Accessory Structure, Carport",4.821621621621621,1.0,0.0,39.0,8.940972802396269,79.94099465318978
+Building Residential - New,"Accessory Structure, Garage",5.897345132743363,1.0,0.0,39.0,9.406577238131504,88.4836953369337
+Building Residential - New,"Accessory Structure, Pools - Residential",12.0,12.0,12.0,12.0,0.0,0.0
+Building Residential - New,"Accessory Structure, Shed / Storage Bldg",4.537750385208012,0.0,0.0,39.0,7.98081467997565,63.69340295611483
+Building Residential - New,Detached Accessory Dwelling Unit,8.62081784386617,5.0,0.0,39.0,10.248648148945033,105.03478888087447
+Building Residential - New,Duplex,10.42489270386266,8.0,0.0,39.0,9.721318473068214,94.50403285481732
+Building Residential - New,"Home Occupation, Single Family Residence",13.666666666666666,13.0,13.0,15.0,1.1547005383792515,1.333333333333333
+Building Residential - New,"Leasing / Sales Office, Other",12.0,12.0,12.0,12.0,,
+Building Residential - New,Master Permit Application,13.0,13.0,13.0,13.0,0.0,0.0
+Building Residential - New,Mobile Home Dwelling,0.5333333333333333,0.0,0.0,4.0,1.4074631010979937,1.980952380952381
+Building Residential - New,"Multifamily, Apt / Twnhome > 5 Unit Bldg",2.0,1.0,0.0,9.0,2.903200204700225,8.428571428571429
+Building Residential - New,"Multifamily, Condominium 3&4 Unit Bldg",1.475609756097561,1.0,0.0,34.0,4.214102161910026,17.75865703101476
+Building Residential - New,"Multifamily, Condominium > 5 Unit Bldg",32.76470588235294,34.0,14.0,35.0,4.818265899108289,23.21568627450981
+Building Residential - New,"Multifamily, Townhome",4.245777027027027,3.0,0.0,35.0,5.175702788387909,26.787899353726377
+Building Residential - New,"Multifamily, Tri-Plex, Quad, Apartments",2.2666666666666666,1.0,0.0,14.0,4.787881527754162,22.923809523809524
+Building Residential - New,"Religious Institution, Gymnasium",14.5,14.5,1.0,28.0,19.091883092036785,364.5
+Building Residential - New,Single Family Residence,7.173351188483428,4.0,0.0,39.0,8.838635684703208,78.12148076690893
+Building Residential - Rehab,"Accessory Structure, Decks",7.325,2.0,0.0,34.0,9.824762051423365,96.52594936708863
+Building Residential - Rehab,"Accessory Structure, Garage",6.705882352941177,1.0,0.0,39.0,11.285628865722575,127.36541889483063
+Building Residential - Rehab,"Accessory Structure, Shed / Storage Bldg",1.4285714285714286,0.0,0.0,5.0,2.439750182371333,5.952380952380952
+Building Residential - Rehab,Detached Accessory Dwelling Unit,8.285714285714286,6.0,0.0,23.0,10.403753901265409,108.23809523809523
+Building Residential - Rehab,Duplex,8.444444444444445,1.0,0.0,36.0,11.90265527579368,141.67320261437914
+Building Residential - Rehab,"General Office, Professional Services",6.0,6.0,6.0,6.0,0.0,0.0
+Building Residential - Rehab,Master Permit Application,14.0,14.0,14.0,14.0,0.0,0.0
+Building Residential - Rehab,Mobile Home Dwelling,3.3333333333333335,0.0,0.0,10.0,5.773502691896257,33.33333333333333
+Building Residential - Rehab,"Multifamily, Apt / Twnhome > 5 Unit Bldg",6.666666666666667,10.0,0.0,10.0,5.773502691896257,33.33333333333333
+Building Residential - Rehab,"Multifamily, Condominium 1&2 Unit Bldg",15.5,15.5,3.0,28.0,14.433756729740642,208.3333333333333
+Building Residential - Rehab,"Multifamily, Condominium 3&4 Unit Bldg",11.0,11.0,8.0,14.0,3.4641016151377544,12.0
+Building Residential - Rehab,"Multifamily, Condominium > 5 Unit Bldg",13.75,9.5,2.0,34.0,13.188198187340506,173.92857142857142
+Building Residential - Rehab,"Multifamily, Townhome",1.3333333333333333,2.0,0.0,2.0,1.1547005383792517,1.3333333333333335
+Building Residential - Rehab,"Multifamily, Tri-Plex, Quad, Apartments",14.80952380952381,15.0,14.0,15.0,0.4023739080814783,0.16190476190476197
+Building Residential - Rehab,Single Family Residence,5.709714285714286,2.0,0.0,38.0,8.365934755587677,69.98886433474983
+Building Residential - Roofing / Siding,"Accessory Structure, Garage",1.0,1.0,1.0,1.0,0.0,0.0
+Building Residential - Roofing / Siding,"General Office, Professional Services",11.0,11.0,11.0,11.0,0.0,0.0
+Building Residential - Roofing / Siding,"Multifamily, Apt / Twnhome > 5 Unit Bldg",22.0,22.0,22.0,22.0,0.0,0.0
+Building Residential - Roofing / Siding,"Multifamily, Condominium 1&2 Unit Bldg",8.0,8.0,4.0,12.0,4.618802153517006,21.333333333333332
+Building Residential - Roofing / Siding,"Multifamily, Condominium 3&4 Unit Bldg",6.166666666666667,6.0,1.0,12.0,3.4333480435107053,11.787878787878787
+Building Residential - Roofing / Siding,"Multifamily, Condominium > 5 Unit Bldg",5.75,5.0,5.0,7.0,0.9999999999999997,0.9999999999999993
+Building Residential - Roofing / Siding,"Multifamily, Tri-Plex, Quad, Apartments",7.0,7.0,7.0,7.0,0.0,0.0
+Building Residential - Roofing / Siding,Single Family Residence,5.961538461538462,1.0,0.0,20.0,8.190144170798312,67.07846153846157
+Building Residential New Storm Damage,"Accessory Structure, Carport",1.0,1.0,1.0,1.0,,
+Building Residential New Storm Damage,"Accessory Structure, Garage",8.8,11.0,0.0,14.0,6.1400325732035,37.7
+Building Residential New Storm Damage,"Accessory Structure, Shed / Storage Bldg",1.3333333333333333,1.0,0.0,3.0,1.3662601021279464,1.8666666666666665
+Building Residential New Storm Damage,Detached Accessory Dwelling Unit,20.333333333333332,28.0,0.0,33.0,17.7857620959388,316.33333333333337
+Building Residential New Storm Damage,Duplex,17.923076923076923,15.5,6.0,34.0,9.971652127598823,99.43384615384612
+Building Residential New Storm Damage,Mobile Home Dwelling,9.0,9.0,9.0,9.0,0.0,0.0
+Building Residential New Storm Damage,"Multifamily, Townhome",6.8,8.0,2.0,8.0,2.6832815729997477,7.199999999999999
+Building Residential New Storm Damage,Single Family Residence,13.317460317460318,11.0,0.0,38.0,10.908453952762,118.9943676395289
+Building Residential Rehab Storm Damage,"Accessory Structure, Decks",2.0,2.0,2.0,2.0,0.0,0.0
+Building Residential Rehab Storm Damage,Duplex,10.0,10.0,10.0,10.0,0.0,0.0
+Building Residential Rehab Storm Damage,"Multifamily, Townhome",2.0,2.0,2.0,2.0,,
+Building Residential Rehab Storm Damage,"Multifamily, Tri-Plex, Quad, Apartments",3.0,3.0,3.0,3.0,,
+Building Residential Rehab Storm Damage,Single Family Residence,8.591836734693878,6.0,0.0,39.0,9.25897361849114,85.72859246791492
